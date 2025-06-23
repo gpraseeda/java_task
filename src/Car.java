@@ -39,7 +39,7 @@ public class Car {
     // Main method to demonstrate behavior
     public static void main(String[] args) {
         Car car1 = new Car("Toyota", "Camry", 2020);
-        Car car2 = new Car("Tesla", "Model 3", 2022);
+        Car car2 = new Car("Tesla", "Model Y", 2023);
 
         car1.start();
         car1.accelerate();
